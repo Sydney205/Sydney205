@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **diekechi@gmail.com**
 
-- ⚡ Fun fact **I Love Eating, and Playing video games**
+- ⚡ Fun fact **I Love Playing video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
