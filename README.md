@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently developing [My YouTube channel](https://www.youtube.com/@diekesydney3162)
 
-- 👨‍💻 All of my projects are available at [sydneycd.com](sydneycd.com)
+- 👨‍💻 All of my projects are available at [sydneycd.com](https://www.sydneycd.com)
 
 - 📫 How to reach me **diekechi@gmail.com**
 
