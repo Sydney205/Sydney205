@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sydney205" alt="sydney205" /></a> </p>
 
-- 🔭 I’m currently developing [My YouTube channel](https://www.youtube.com/@diekesydney3162)
+- 📚 I’m constantly learning and developing new skills
 
 - 👨‍💻 All of my projects are available at [sydneycd.com](https://www.sydneycd.com)
 
