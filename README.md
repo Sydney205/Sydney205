@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unity, php and Laravel**
 
-- 👨‍💻 All of my projects are available at [sydneycd.com](sydneycd.com)
+- 👨‍💻 All of my projects are available at [sydneycd.com](https://www.sydneycd.com)
 
 - 💬 Ask me about **react, javascript, python, flask, postgresql and Tensorflow**
 
