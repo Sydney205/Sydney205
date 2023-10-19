@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **javascript and nodejs projects**
 
-- 👨‍💻 All of my projects are available at [https://www.sydneycd.com | https://www.sydneycd.netlify.app](https://www.sydneycd.com | https://www.sydneycd.netlify.app)
+- 👨‍💻 All of my projects are available at [sydneycd.com](https://www.sydneycd.com) | [sydneycd.netlify.app](https://www.sydneycd.netlify.app)
 
 - 💬 Ask me about **javascript, node, react, python and flask**
 
