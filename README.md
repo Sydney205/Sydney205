@@ -7,7 +7,7 @@
 
 - 🌱 I’m constantly growing my knowledge on **javascript and nodejs**
 
-- 👨‍💻 All of my projects are available at [sydneycd.com](https://www.sydneycd.com) || [sydneycd.netlify.app](https://www.sydneycd.netlify.app)
+- 👨‍💻 All of my projects are available at [sydneycd.com](https://www.sydneycd.com) || [sydneycd.netlify.app](https://sydneycd.netlify.app/)
 
 - 💬 Ask me about **javascript, node, react, python and flask**
 
