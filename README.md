@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sydney</h1>
-<h3 align="center">An awesome fullstack web developer</h3>
+<h1 align="center">Hello 👋, I'm Sydney</h1>
+<h3 align="center">A fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sydney205&label=Profile%20views&color=0e75b6&style=flat" alt="sydney205" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **diekechi@gmail.com**
 
-- ⚡ Fun fact **I'm Awesome**
+- ⚡ Fun fact **I love emojis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
