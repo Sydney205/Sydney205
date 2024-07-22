@@ -4,7 +4,7 @@ Hi 👋 My name is Sydney
 _I turn caffine into code_
 ------------------------
 
-* 🖥️  See my portfolio at [sydneycd.com](http://sydneycd.netlify.app)
+* 🖥️  See my portfolio at [sydneycd.netlify.app](http://sydneycd.netlify.app)
 * ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
 * 🤝  I'm open to collaborating on Javascript and Python projects
 * ⚡  I love emojis
