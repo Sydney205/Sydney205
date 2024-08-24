@@ -1,7 +1,11 @@
-Hi 👋 My name is Sydney
+Hola 👋 Me llamo Sydney
 =======================
 
-_I turn caffine into code_
+<strike>I'm a developeer</strike>
+<br />
+<strike>I'm a devlloper</strike>
+<br />
+<span>I write codes</span>
 ------------------------
 
 * 🖥️  See my portfolio at [sydneycd.netlify.app](http://sydneycd.netlify.app)
