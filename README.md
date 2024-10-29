@@ -11,11 +11,11 @@
 **<span align="center">I write codes</span>**
 -------------
 
-Learning to create beautiful sites, quick servers and awesome web apps
+Mastering the art of crafting stunning websites, lightning-fast servers, and insightful data analysis.
 
 * 🖥️  See my portfolio at [Sydneycd](http://sydneycd.netlify.app)
 * ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
-* 🧠  I'm learning Spanish, Rust & Python
+* 🧠  I'm learning Spanish, Javascript & Python
 * 🤝  I'm open to collaborating on Javascript Python & Rust projects
 * ⚡  Making it lively is my job
 
