@@ -15,7 +15,7 @@ Mastering the art of crafting stunning websites, lightning-fast servers, and ins
 
 * 🖥️  See my portfolio at [Sydney205](http://sydney205.vercel.app)
 * ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
-* 🧠  I'm learning Spanish, Javascript & Python
+* 🧠  I'm learning Spanish, Tableau, SQL and Rust
 * 🤝  I'm open to collaborating on Javascript Python & Rust projects
 * ⚡  Making it lively is my job
 
