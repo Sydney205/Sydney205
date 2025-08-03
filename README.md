@@ -5,26 +5,16 @@
           ███████║    ██║    ███████╔╝ ██║ ╚═██║ ███████╗    ██║
           ╚══════╝    ╚═╝    ╚══════╝  ╚═╝   ╚═╝ ╚══════╝    ╚═╝  v2.0.5
 
-👋 Hola!, call me Sydney
+👋 Hola!, The name's Sydney
 ==============================================================================================================================
-
-<strike align="center">I'm a developa</strike>
-<br />
-<strike align="center">I'm a develupper</strike>
-<br />
-<strike align="center">I'm a diveloper</strike>
-<br />
-<br />
-**<span align="center">I write codes</span>**
--------------
 
 Mastering the art of crafting stunning websites, lightning-fast servers, and insightful data analysis.
 
-* 🖥️  See my portfolio at [Sydney205](http://sydney205.vercel.app)
+* 🖥️   Building my notebook *Coming soon*
 * ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
-* 🧠  I'm learning Spanish, Tableau, SQL and Rust
-* 🤝  I'm open to collaborating on Javascript Python & Rust projects
-* ⚡  Making it lively is my job
+* 🧠  I'm learning Spanish, Tableau, SQL, and Rust
+* 🤝  I'm open to collaborating on JavaScript and Python Projects
+* ⚡  I love JSON, ASCII ART, Spanish and Batman
 
 <a href="https://www.x.com/DiekeSydney" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DiekeSydney?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
