@@ -10,7 +10,7 @@
 
 Mastering the art of crafting stunning websites, lightning-fast servers, and insightful data analysis.
 
-* 🖥️   Building my notebook *Coming soon*
+* 🖥️   Building my new site *Coming soon*
 * ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
 * 🧠  I'm learning Spanish, Tableau, SQL, and Rust
 * 🤝  I'm open to collaborating on JavaScript and Python Projects
