@@ -8,13 +8,14 @@
 👋 Hola!, The name's Sydney
 ==============================================================================================================================
 
-Mastering the art of crafting stunning websites, lightning-fast servers, and insightful data analysis.
+🎨 Mastering the art of crafting stunning UI
+📊 Diving deep into Data Science, ML & DL
+⚡ I love speeding up workflows, and building smarter stuff.
 
-* 🖥️   Building my new site *Coming soon*
-* ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
-* 🧠  I'm learning Spanish, Tableau, SQL, and Rust
-* 🤝  I'm open to collaborating on JavaScript and Python Projects
-* ⚡  I love JSON, ASCII ART, Spanish and Batman
+ 🖥️  Im Building my portfolio
+ ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
+
+ 🤝  I'm open to collaborating on JavaScript and Python Projects
 
 <a href="https://www.x.com/DiekeSydney" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DiekeSydney?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
