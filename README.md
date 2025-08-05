@@ -9,13 +9,17 @@
 ==============================================================================================================================
 
 🎨 Mastering the art of crafting stunning UI
-
+<br>
 📊 Diving deep into Data Science, ML & DL
+<br>
 ⚡ I love speeding up workflows, and building smarter stuff.
-
+<br>
+<br>
 🖥️  Im Building my portfolio
+<br>
 ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
-
+<br>
+<br>
 🤝  I'm open to collaborating on JavaScript and Python Projects
 
 <a href="https://www.x.com/DiekeSydney" target="_blank" rel="noreferrer"><img
