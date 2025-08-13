@@ -20,7 +20,7 @@
 ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
 <br>
 <br>
-🤝  I'm open to collaborating on JavaScript and Python Projects
+🤝  I'm open to collaborating on JavaScript and Python Projects. 
 
 <a href="https://www.x.com/DiekeSydney" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DiekeSydney?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
