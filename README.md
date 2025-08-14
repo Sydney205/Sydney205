@@ -21,6 +21,7 @@
 <br>
 <br>
 🤝  I'm open to collaborating on JavaScript and Python Projects.
+
 ❤ I love OpenSource 
 
 <a href="https://www.x.com/DiekeSydney" target="_blank" rel="noreferrer"><img
