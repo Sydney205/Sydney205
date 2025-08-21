@@ -20,7 +20,7 @@
 ✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
 <br>
 <br>
-🤝  I'm open to collaborating on JavaScript and Python Projects.
+🤝  I'm open to collaborating on JavaScript and Python Projects. 
 <br>
 ❤ I love OpenSource
 
