@@ -8,21 +8,21 @@
 🤘🏻😎 Hola!, The name's Sydney
 ==============================================================================================================================
 
-🎨 Mastering the art of crafting stunning UI
+🎨 Mastering the art of crafting stunning UI. 
 <br>
-📊 Diving deep into Data Science, ML & DL
+📊 Diving deep into Data Science, ML & DL.
 <br>
 ⚡ I love speeding up workflows, and building smarter stuff.
 <br>
 <br> 
-🖥️  I'm Building my portfolio
+🖥️  I'm Building my portfolio...
 <br>
-✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com)
+✉️  You can contact me at [diekechi@gmail.com](mailto:diekechi@gmail.com).
 <br>
 <br>
 🤝  I'm open to collaborating on JavaScript and Python Projects. 
 <br>
-❤ I love OpenSource
+❤ I love OpenSource.
 
 <a href="https://www.x.com/Sydney2O5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sydney2O5?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
