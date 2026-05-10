@@ -6,7 +6,6 @@
           ╚══════╝    ╚═╝    ╚══════╝  ╚═╝   ╚═╝ ╚══════╝    ╚═╝  v2.0.5
 
 
-Contact me => [diekechi@gmail.com](mailto:diekechi@gmail.com).
-
-
+Contact me => [diekechi@gmail.com](mailto:diekechi@gmail.com)
+<br />
 [![openstage](https://openstage.dev/badge/Sydney205)](https://openstage.dev/Sydney205)
